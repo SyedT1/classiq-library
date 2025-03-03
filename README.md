@@ -11,6 +11,8 @@
 
 ### Modified by Asif Mohammed Saad
 
+## Qauntum Local Discriminant Embedding
+
 Classiq provides a powerful platform for **designing, optimizing, analyzing, and executing** quantum programs. This repository hosts a comprehensive collection of quantum functions, algorithms, applications, and tutorials built using the Classiq SDK and our native Qmod language.
 
 Whether you're a researcher, developer, or student, Classiq helps you simplify complex quantum workflows and seamlessly transform quantum logic into optimized circuits by leveraging our **high-level functional design** approach. A user-friendly interface allows you to model, simulate, visualize, and execute quantum programs across various quantum hardware platforms.
